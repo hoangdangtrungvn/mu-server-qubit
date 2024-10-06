@@ -7,17 +7,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameServer", "GameServer\Ga
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Win32 = Debug|Win32
 		Release_EX603|Win32 = Release_EX603|Win32
 		Release_EX603CS|Win32 = Release_EX603CS|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Debug|Win32.ActiveCfg = Debug|Win32
-		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Debug|Win32.Build.0 = Debug|Win32
-		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603|Win32.ActiveCfg = Release_EX603|Win32
-		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603|Win32.Build.0 = Release_EX603|Win32
-		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603CS|Win32.ActiveCfg = Release_EX603CS|Win32
-		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603CS|Win32.Build.0 = Release_EX603CS|Win32
+		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603|Win32.ActiveCfg = (GameServer)Release_EX603|Win32
+		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603|Win32.Build.0 = (GameServer)Release_EX603|Win32
+		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603CS|Win32.ActiveCfg = (GameServer)Release_EX603CS|Win32
+		{93F80160-07A8-42A6-B46C-70B72AFF74C4}.Release_EX603CS|Win32.Build.0 = (GameServer)Release_EX603CS|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

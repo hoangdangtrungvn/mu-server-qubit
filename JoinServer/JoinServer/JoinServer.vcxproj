@@ -29,7 +29,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='(JoinServer)Release_EX603|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <OutDir>../Release\JoinServer_EX603\</OutDir>
+    <OutDir>..\Release\JoinServer_EX603\</OutDir>
     <IntDir>Release\JoinServer_EX603\</IntDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='(JoinServer)Release_EX603|Win32'">
